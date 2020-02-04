@@ -8,3 +8,6 @@ Use this link to setup your [in class 1](https://classroom.github.com/a/aoiQaKgH
 
 ## In Class 2
 Use this link to setup your [in class 2](https://classroom.github.com/a/ZS9-hxnb)
+
+## In Class 3
+Use this link to setup your [in class 3](https://classroom.github.com/a/Sjs4XtMO)
