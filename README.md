@@ -14,3 +14,6 @@ Use this link to setup your [in class 3](https://classroom.github.com/a/Sjs4XtMO
 
 ## In Class 4
 Use this link to setup your [in class 4](https://classroom.github.com/a/DiYrXVTa)
+
+## In Class 5
+Use this link to setup your [in class 5](https://classroom.github.com/a/u6mHH_2L)
